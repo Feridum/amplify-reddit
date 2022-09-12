@@ -1,0 +1,9 @@
+type Post @model @auth(rules: [{allow: public, operations: [read]}, {allow: owner}]) {
+  id: ID!
+  title: String
+  description: String
+  thumbnail: AWSURL
+  url: AWSURL
+  owner: ID
+}
+ 

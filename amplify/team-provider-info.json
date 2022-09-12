@@ -1,0 +1,20 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-redditamplifyap-staging-104449-authRole",
+      "UnauthRoleArn": "arn:aws:iam::322464397044:role/amplify-redditamplifyap-staging-104449-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::322464397044:role/amplify-redditamplifyap-staging-104449-authRole",
+      "Region": "eu-west-1",
+      "DeploymentBucketName": "amplify-redditamplifyap-staging-104449-deployment",
+      "UnauthRoleName": "amplify-redditamplifyap-staging-104449-unauthRole",
+      "StackName": "amplify-redditamplifyap-staging-104449",
+      "StackId": "arn:aws:cloudformation:eu-west-1:322464397044:stack/amplify-redditamplifyap-staging-104449/c2bd5a50-31be-11ed-83dd-0202940cf3ad",
+      "AmplifyAppId": "d6z0hkjw01otq"
+    },
+    "categories": {
+      "auth": {
+        "redditamplifyap": {}
+      }
+    }
+  }
+}
